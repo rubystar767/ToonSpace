@@ -1,0 +1,19 @@
+# ToonSpace - a collection of iocnic cartoons information
+
+The application aims to list the cartoons that are viewed, characterized and marketed across the globe. 
+
+This user centric application allows the users to Submit, Edit, Vote/Like the toons available through the platform
+
+# Extendibility 
+
+The platform has the extensive scope to make it as market place for the merchandise in terms of printing and packaging the materials.
+
+This would be an ideal application for the birthday party needs of kids and adults alike.
+
+# Technology
+
+Developed using Rails 3.2.1
+Authentication to portal is managed using devise
+Supports role based management using cancan
+Layout and Styling has been defined using twitter-bootstrap
+Image upload facility
